@@ -5,11 +5,11 @@ RPA Practics Advanced Part
    >>>  * orchestrator 
    >>>  * ACME system Website
  >> **HOW IT WORK ...**
- >> Bot Must Done These Steps Exactly ...
+ >>  Bot Must Done These Steps Exactly ...
  >> 
- >> **Log in to website**
- >> **Extract Data From ACME WEbsite**
- >> "this point need to **get Creditional** From orchestrator (That had been set in uipath orchestrator)"
+ >>  **Log in to website**
+ >>  **Extract Data From ACME WEbsite**
+ >>     "this point need to **get Creditional** From orchestrator (That had been set in uipath orchestrator)"
  >> - the key map of this project to understand how to use orchestrator (Exactly -> Queues) :
  >>  * upload item (Set Queue Item) 
  >>  * Get Queue Item
